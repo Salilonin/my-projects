@@ -1,0 +1,132 @@
+﻿  123.cpp
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(107,20): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(107,20): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(107,20): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(107,20): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(107,20): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(108,24): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(108,24): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(108,24): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(108,24): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(108,24): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(113,44): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(113,44): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(113,44): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(113,44): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(113,44): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(121,43): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(121,43): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(121,43): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(121,43): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(121,43): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(155,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(161,18): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(185,35): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(203,34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(283,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(284,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(296,20): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(296,20): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(296,20): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(296,20): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(296,20): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(297,24): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(297,24): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(297,24): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(297,24): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(297,24): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(304,46): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(304,46): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(304,46): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(304,46): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(304,46): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(326,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(343,36): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(359,26): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(379,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(382,73): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(382,73): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(382,73): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(382,73): warning C4244:             T=int
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(382,73): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(382,45): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(382,45): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(382,45): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(382,45): warning C4244:             T=int
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(382,45): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(453,22): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(453,22): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(453,22): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(453,22): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(453,22): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(454,21): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(454,21): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(454,21): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(454,21): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(454,21): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(455,13): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(502,94): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(503,95): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(504,94): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(505,94): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(506,94): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(507,95): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(508,95): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(509,95): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(595,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(595,35): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(595,35): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(595,35): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(595,35): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(595,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(595,31): warning C4244:         with
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(595,31): warning C4244:         [
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(595,31): warning C4244:             T=float
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(595,31): warning C4244:         ]
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(609,53): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(635,64): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(642,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(646,29): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(653,34): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(688,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(688,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(799,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(799,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(830,85): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(830,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(839,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(839,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(845,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(845,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(861,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(861,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(874,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(881,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(885,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(889,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(900,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(900,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(905,79): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(905,62): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(912,85): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(912,68): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(913,38): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(919,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(919,37): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(937,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(937,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(950,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(957,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(961,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(965,30): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(978,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(978,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(984,79): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(984,62): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(991,85): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(991,68): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(992,38): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(998,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(998,37): warning C4244: аргумент: преобразование "unsigned __int64" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\платформер\платформер\123.cpp(529,62): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  платформер.vcxproj -> C:\Users\Admin\Desktop\платформер\платформер\x64\Debug\платформер.exe

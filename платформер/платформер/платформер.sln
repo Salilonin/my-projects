@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "платформер", "платформер.vcxproj", "{1AD0FDD5-5D7E-4763-8162-79CE1310A610}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{6FB6227D-4E8C-4CAE-8312-F66AE2DE882A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\tmxlite-master\tmxlite\include\tmxlite\detail\Android.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\detail\Android.hpp
+		..\..\tmxlite-master\Android.mk = ..\..\tmxlite-master\Android.mk
+		..\..\tmxlite-master\OpenGLExample\src\CMakeLists.txt = ..\..\tmxlite-master\OpenGLExample\src\CMakeLists.txt
+		..\..\tmxlite-master\ParseTest\CMakeLists.txt = ..\..\tmxlite-master\ParseTest\CMakeLists.txt
+		..\..\tmxlite-master\SDL2Example\CMakeLists.txt = ..\..\tmxlite-master\SDL2Example\CMakeLists.txt
+		..\..\tmxlite-master\SFMLExample\CMakeLists.txt = ..\..\tmxlite-master\SFMLExample\CMakeLists.txt
+		..\..\tmxlite-master\tmxlite\src\CMakeLists.txt = ..\..\tmxlite-master\tmxlite\src\CMakeLists.txt
+		..\..\tmxlite-master\tmxlite\include\tmxlite\Config.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\Config.hpp
+		..\..\tmxlite-master\tmxlite\src\FreeFuncs.cpp = ..\..\tmxlite-master\tmxlite\src\FreeFuncs.cpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\FreeFuncs.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\FreeFuncs.hpp
+		..\..\tmxlite-master\OpenGLExample\src\Game.cpp = ..\..\tmxlite-master\OpenGLExample\src\Game.cpp
+		..\..\tmxlite-master\OpenGLExample\src\Game.hpp = ..\..\tmxlite-master\OpenGLExample\src\Game.hpp
+		..\..\tmxlite-master\OpenGLExample\src\GLCheck.hpp = ..\..\tmxlite-master\OpenGLExample\src\GLCheck.hpp
+		..\..\tmxlite-master\tmxlite\src\ImageLayer.cpp = ..\..\tmxlite-master\tmxlite\src\ImageLayer.cpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\ImageLayer.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\ImageLayer.hpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\Layer.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\Layer.hpp
+		..\..\tmxlite-master\tmxlite\src\LayerGroup.cpp = ..\..\tmxlite-master\tmxlite\src\LayerGroup.cpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\LayerGroup.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\LayerGroup.hpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\detail\Log.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\detail\Log.hpp
+		..\..\tmxlite-master\OpenGLExample\src\main.cpp = ..\..\tmxlite-master\OpenGLExample\src\main.cpp
+		..\..\tmxlite-master\ParseTest\src\main.cpp = ..\..\tmxlite-master\ParseTest\src\main.cpp
+		..\..\tmxlite-master\SDL2Example\src\main.cpp = ..\..\tmxlite-master\SDL2Example\src\main.cpp
+		..\..\tmxlite-master\SFMLExample\src\main.cpp = ..\..\tmxlite-master\SFMLExample\src\main.cpp
+		..\..\tmxlite-master\tmxlite\src\Map.cpp = ..\..\tmxlite-master\tmxlite\src\Map.cpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\Map.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\Map.hpp
+		..\..\tmxlite-master\OpenGLExample\src\MapLayer.cpp = ..\..\tmxlite-master\OpenGLExample\src\MapLayer.cpp
+		..\..\tmxlite-master\SDL2Example\src\MapLayer.cpp = ..\..\tmxlite-master\SDL2Example\src\MapLayer.cpp
+		..\..\tmxlite-master\OpenGLExample\src\MapLayer.hpp = ..\..\tmxlite-master\OpenGLExample\src\MapLayer.hpp
+		..\..\tmxlite-master\SDL2Example\src\MapLayer.hpp = ..\..\tmxlite-master\SDL2Example\src\MapLayer.hpp
+		..\..\tmxlite-master\tmxlite\src\Object.cpp = ..\..\tmxlite-master\tmxlite\src\Object.cpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\Object.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\Object.hpp
+		..\..\tmxlite-master\tmxlite\src\ObjectGroup.cpp = ..\..\tmxlite-master\tmxlite\src\ObjectGroup.cpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\ObjectGroup.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\ObjectGroup.hpp
+		..\..\tmxlite-master\tmxlite\src\ObjectTypes.cpp = ..\..\tmxlite-master\tmxlite\src\ObjectTypes.cpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\ObjectTypes.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\ObjectTypes.hpp
+		..\..\tmxlite-master\OpenGLExample\src\OpenGL.cpp = ..\..\tmxlite-master\OpenGLExample\src\OpenGL.cpp
+		..\..\tmxlite-master\OpenGLExample\src\OpenGL.hpp = ..\..\tmxlite-master\OpenGLExample\src\OpenGL.hpp
+		..\..\tmxlite-master\tmxlite\src\Property.cpp = ..\..\tmxlite-master\tmxlite\src\Property.cpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\Property.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\Property.hpp
+		..\..\tmxlite-master\tmxlite\src\detail\pugiconfig.hpp = ..\..\tmxlite-master\tmxlite\src\detail\pugiconfig.hpp
+		..\..\tmxlite-master\tmxlite\src\detail\pugixml.cpp = ..\..\tmxlite-master\tmxlite\src\detail\pugixml.cpp
+		..\..\tmxlite-master\tmxlite\src\detail\pugixml.hpp = ..\..\tmxlite-master\tmxlite\src\detail\pugixml.hpp
+		..\..\tmxlite-master\SFMLExample\src\SFMLOrthogonalLayer.hpp = ..\..\tmxlite-master\SFMLExample\src\SFMLOrthogonalLayer.hpp
+		..\..\tmxlite-master\SDL2Example\src\Texture.cpp = ..\..\tmxlite-master\SDL2Example\src\Texture.cpp
+		..\..\tmxlite-master\SDL2Example\src\Texture.hpp = ..\..\tmxlite-master\SDL2Example\src\Texture.hpp
+		..\..\tmxlite-master\tmxlite\src\TileLayer.cpp = ..\..\tmxlite-master\tmxlite\src\TileLayer.cpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\TileLayer.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\TileLayer.hpp
+		..\..\tmxlite-master\tmxlite\src\Tileset.cpp = ..\..\tmxlite-master\tmxlite\src\Tileset.cpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\Tileset.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\Tileset.hpp
+		..\..\tmxlite-master\tmxlite\include\tmxlite\Types.hpp = ..\..\tmxlite-master\tmxlite\include\tmxlite\Types.hpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD0FDD5-5D7E-4763-8162-79CE1310A610}.Debug|x64.ActiveCfg = Debug|x64
+		{1AD0FDD5-5D7E-4763-8162-79CE1310A610}.Debug|x64.Build.0 = Debug|x64
+		{1AD0FDD5-5D7E-4763-8162-79CE1310A610}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AD0FDD5-5D7E-4763-8162-79CE1310A610}.Debug|x86.Build.0 = Debug|Win32
+		{1AD0FDD5-5D7E-4763-8162-79CE1310A610}.Release|x64.ActiveCfg = Release|x64
+		{1AD0FDD5-5D7E-4763-8162-79CE1310A610}.Release|x64.Build.0 = Release|x64
+		{1AD0FDD5-5D7E-4763-8162-79CE1310A610}.Release|x86.ActiveCfg = Release|Win32
+		{1AD0FDD5-5D7E-4763-8162-79CE1310A610}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D2A3D8E-C6ED-4125-AA64-1FA03EE6FBCD}
+	EndGlobalSection
+EndGlobal
